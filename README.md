@@ -3,7 +3,7 @@
 This repository is for the **15 Days of Code Challenge** organized by **Vision CSE** 🚀  
 
 ## 📌 About the Challenge
-- Duration: **15 Days**
+- Duration: **2 phases of 15 Days**
 - Goal: Code every day and build consistency  
 - Task: Fork this repository, and update your progress here!  
 

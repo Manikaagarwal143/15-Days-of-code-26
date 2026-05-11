@@ -6,4 +6,4 @@ DAY 1 : learned about the basics of git and git hub
    <br> 
    [problem 1607B](https://codeforces.com/problemset/problem/1607/B)
 <br>
-[solution](https://codeforces.com/problemset/problem/1607/B)
+[solution](https://codeforces.com/contest/1607/submission/374208435)

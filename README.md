@@ -26,6 +26,7 @@ CP SHEET 31
 <br>
 completed lecture 28 from love babbar (https://www.youtube.com/watch?v=MMO2c57XHzM)
 <br>
+
 DAY3:
 solved problem 
 <br> 
@@ -35,6 +36,7 @@ CP SHEET 31
 <br>
 [solution](https://codeforces.com/contest/1537/submission/374393107)
 <br>
+
 CODECHEF CONTEST 
 <br>
 [problem1](https://www.codechef.com/START238D/problems/TESTTGT)
@@ -45,3 +47,4 @@ CODECHEF CONTEST
 <br>
 [problem4 (tried)](https://www.codechef.com/START238D/problems/MODMIR)
 <br>
+watched lecture 42 oops by love babbar (https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=46)

@@ -23,3 +23,25 @@ CP SHEET 31
 [problem 1582B](https://codeforces.com/problemset/problem/1582/B)
 <br>
 [solution](https://codeforces.com/contest/1582/submission/374273639)
+<br>
+completed lecture 28 from love babbar (https://www.youtube.com/watch?v=MMO2c57XHzM)
+<br>
+DAY3:
+solved problem 
+<br> 
+CP SHEET 31
+<br>
+[problem](https://codeforces.com/problemset/problem/1537/B)
+<br>
+[solution](https://codeforces.com/contest/1537/submission/374393107)
+<br>
+CODECHEF CONTEST 
+<br>
+[problem1](https://www.codechef.com/START238D/problems/TESTTGT)
+<br>
+[problem2](https://www.codechef.com/START238D/problems/CRNET)
+<br>
+[problem3](https://www.codechef.com/START238D/problems/WECREC)
+<br>
+[problem4 (tried)](https://www.codechef.com/START238D/problems/MODMIR)
+<br>

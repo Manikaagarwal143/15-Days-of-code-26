@@ -48,3 +48,18 @@ CODECHEF CONTEST
 [problem4 (tried)](https://www.codechef.com/START238D/problems/MODMIR)
 <br>
 watched lecture 42 oops by love babbar (https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=46)
+
+<br>
+DAY 4 :
+<br>
+solved problems 
+<br>
+codechef contest problem4 (https://www.codechef.com/problems/MODMIR)
+<br>
+CP SHEET 31 
+<br>
+[PROBLEM](https://codeforces.com/contest/1471/problem/A)
+<br>
+[SOLUTION](https://codeforces.com/contest/1471/submission/374433012)
+<br>
+completed lecture 42 oops by love babbar (https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=46)

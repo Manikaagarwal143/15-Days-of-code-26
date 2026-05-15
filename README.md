@@ -1,4 +1,4 @@
-<big>DAY 1: </big> : learned about the basics of git and git hub 
+DAY 1: learned about the basics of git and git hub 
    <br>
    SOLVED PROBLEM 
    <br>
@@ -27,7 +27,7 @@ CP SHEET 31
 completed lecture 28 from love babbar (https://www.youtube.com/watch?v=MMO2c57XHzM)
 <br>
 
-<big>DAY 3: </big>
+DAY 3:
 solved problem 
 <br> 
 CP SHEET 31
@@ -50,7 +50,8 @@ CODECHEF CONTEST
 watched lecture 42 oops by love babbar (https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=46)
 
 <br>
-<big>DAY 4: </big>
+DAY 4:
+
 <br>
 solved problems 
 <br>

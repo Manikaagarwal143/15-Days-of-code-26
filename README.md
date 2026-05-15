@@ -63,3 +63,23 @@ CP SHEET 31
 [SOLUTION](https://codeforces.com/contest/1471/submission/374433012)
 <br>
 completed lecture 42 oops by love babbar (https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=46)
+<BR>
+
+DAY 5:
+<br>
+CP SHHET 31
+[problem 1](https://codeforces.com/problemset/problem/1475/A)
+<BR>
+[solution](https://codeforces.com/contest/1475/submission/374614184)
+<BR>
+[PROBLEM 2](https://codeforces.com/problemset/problem/1380/A)
+<BR>
+[SOLUTION](https://codeforces.com/contest/1380/submission/374615790)
+<BR>
+[problem 3](https://codeforces.com/problemset/problem/1373/B)
+<br>
+solution(https://codeforces.com/contest/1373/submission/374620926)
+<BR>
+[problem 4](https://codeforces.com/problemset/problem/1374/B)
+<br>
+[solution](https://codeforces.com/contest/1374/submission/374651867)

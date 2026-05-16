@@ -1,4 +1,4 @@
-DAY 1: learned about the basics of git and git hub 
+**DAY 1**: learned about the basics of git and git hub 
    <br>
    SOLVED PROBLEM 
    <br>
@@ -9,7 +9,7 @@ DAY 1: learned about the basics of git and git hub
 [solution](https://codeforces.com/contest/1607/submission/374208435)
 <br>
 
-<big>DAY 2: </big>
+**DAY 2:** 
 <br>
 solved problem 
 <br> 
@@ -27,7 +27,7 @@ CP SHEET 31
 completed lecture 28 from love babbar (https://www.youtube.com/watch?v=MMO2c57XHzM)
 <br>
 
-DAY 3:
+**DAY 3:**
 solved problem 
 <br> 
 CP SHEET 31
@@ -50,7 +50,8 @@ CODECHEF CONTEST
 watched lecture 42 oops by love babbar (https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=46)
 
 <br>
-DAY 4:
+
+**DAY 4:** 
 
 <br>
 solved problems 
@@ -63,10 +64,12 @@ CP SHEET 31
 <br>
 [solution](https://codeforces.com/contest/1471/submission/374433012)
 <br>
+<br>
 completed lecture 42 oops by love babbar (https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=46)
 <BR>
 <br>
-DAY 5:
+
+**DAY 5:**
 <br>
 CP SHHET 31
 <BR>
@@ -74,14 +77,32 @@ CP SHHET 31
 <BR>
 [solution](https://codeforces.com/contest/1475/submission/374614184)
 <BR>
+<br>
 [problem 1380A](https://codeforces.com/problemset/problem/1380/A)
 <BR>
 [solution](https://codeforces.com/contest/1380/submission/374615790)
 <BR>
+<br>
 [problem 1373B](https://codeforces.com/problemset/problem/1373/B)
 <br>
 [solution](https://codeforces.com/contest/1373/submission/374620926)
 <BR>
+<br>
 [problem 1374B](https://codeforces.com/problemset/problem/1374/B)
 <br>
 [solution](https://codeforces.com/contest/1374/submission/374651867)
+<br>
+
+**DAY6**
+<br>
+completed lecture 42 oops by love babbar (https://www.youtube.com/watch?v=b3GccK5_KSQ&t=1983s)
+<br>
+[problem 1878 C](https://codeforces.com/problemset/problem/1878/C)
+<br>
+[solution](https://codeforces.com/contest/1878/submission/374867949)
+<br>
+[problem 1606 A](https://codeforces.com/problemset/problem/1606/A)
+<br>
+[solution](https://codeforces.com/contest/1606/submission/374724858)
+
+

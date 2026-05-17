@@ -95,7 +95,7 @@ CP SHHET 31
 
 **DAY6**
 <br>
-completed lecture 42 oops by love babbar (https://www.youtube.com/watch?v=b3GccK5_KSQ&t=1983s)
+completed lecture 43 oops by love babbar (https://www.youtube.com/watch?v=b3GccK5_KSQ&t=1983s)
 <br>
 [problem 1878 C](https://codeforces.com/problemset/problem/1878/C)
 <br>
@@ -104,5 +104,23 @@ completed lecture 42 oops by love babbar (https://www.youtube.com/watch?v=b3GccK
 [problem 1606 A](https://codeforces.com/problemset/problem/1606/A)
 <br>
 [solution](https://codeforces.com/contest/1606/submission/374724858)
+<BR>
 
+ **DAY7**
+ <BR>
+ STRIVER SHEET
+ <BR>
+ PROBLEM1: SORTED ARRAYS 
+ <BR>
+ PROBLEM2 : REMOVE DUPLICATES
+ <BR>
+ PROBLEM 3 : ROTATE ARRAY BY K 
+ <BR>
+ PROBLEM 4  : TWO SUM
+ <BR>
 
+ CP SHEET 31 
+ <BR>
+[PROBLEM 2228](https://codeforces.com/contest/2228/problem/A)
+<BR>
+[SOLUTION](https://codeforces.com/contest/2228/submission/37498120

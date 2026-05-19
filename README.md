@@ -124,3 +124,26 @@ completed lecture 43 oops by love babbar (https://www.youtube.com/watch?v=b3GccK
 [PROBLEM 2228](https://codeforces.com/contest/2228/problem/A)
 <BR>
 [SOLUTION](https://codeforces.com/contest/2228/submission/37498120
+
+**DAY8**
+
+<BR>
+CP SHEET 31 
+
+[PROBLEM](https://codeforces.com/problemset/problem/1855/B)
+<BR>
+
+[SOLUTION](https://codeforces.com/contest/1855/submission/375072826)
+<BR>
+
+[PROBLEM](https://codeforces.com/problemset/problem/1559/A)
+<BR>
+
+[SOLUTION](https://codeforces.com/contest/1559/submission/375163671)
+<BR>
+
+[PROBLEM](https://codeforces.com/problemset/problem/1665/B)
+<BR>
+
+[SOLITION](https://codeforces.com/contest/1665/submission/375197200)
+

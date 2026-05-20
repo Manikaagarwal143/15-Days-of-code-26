@@ -145,3 +145,23 @@ CP SHEET 31
 
 [SOLITION](https://codeforces.com/contest/1665/submission/375197200)
 
+**DAY9**
+<BR>
+
+STRIVER SHEET PROBLEMS 
+1. SORT ARRAYS OF 1's 2's and 0's
+<br>
+2. MAJORITY ELEMENT 1
+<br>
+
+CODECHEF CONTEST
+<BR>
+
+[PROBLEM 1](https://www.codechef.com/START239D/problems/TOURPLAN)
+
+[PROBLEM 2](https://www.codechef.com/START239D/problems/EZSPK)
+
+[PROBLEM 3](https://www.codechef.com/START239D/problems/EQBEND)
+
+[PROBLEM 4](https://www.codechef.com/START239D/problems/MIRRIM)
+

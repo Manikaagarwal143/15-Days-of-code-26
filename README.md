@@ -149,11 +149,12 @@ CP SHEET 31
 <BR>
 
 STRIVER SHEET PROBLEMS 
-1. SORT ARRAYS OF 1's 2's and 0's
+
+1.SORT ARRAYS OF 1's 2's and 0's
 <br>
 2. MAJORITY ELEMENT 1
 <br>
-
+<br>
 CODECHEF CONTEST
 <BR>
 
@@ -165,3 +166,17 @@ CODECHEF CONTEST
 
 [PROBLEM 4](https://www.codechef.com/START239D/problems/MIRRIM)
 
+**DAY10**
+<BR>
+LEETCODE PROBLEMS 
+<BR>
+ [MOVE ZEROS] (https://leetcode.com/problems/move-zeroes/?envType=problem-list-v2&envId=array)
+<BR>
+[MAX CONSECUTIVE ONES](https://leetcode.com/problems/max-consecutive-ones/submissions/2008993983/?envType=problem-list-v2&envId=array)
+
+<BR>
+STRIVER SHEET
+<BR> 
+Longest subarray with sum k
+<br>
+Largest odd number in a string 

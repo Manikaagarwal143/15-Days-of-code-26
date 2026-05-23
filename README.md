@@ -207,6 +207,7 @@ CP SHEET 31
 <br>
 
 **DAY12**
+<br>
 <BR>
 LEETCODE
 <BR>
@@ -217,16 +218,20 @@ LEETCODE
 [2.SEARCH INSERT POSITIONS](https://leetcode.com/problems/search-insert-position/description/)
 <BR>
 <BR>
-STRIVER SHEET 
+
+***STRIVER SHEET*** 
+<br>
 LEADERS IN AN ARRAY
 <BR>
 UPPER BOUND
 <BR>
 LOWER BOUND 
 <BR>
-<BR>
-CP SHEET 31
+
+***CP SHEET 31***
 <BR>
 
 [MAKE AP](https://codeforces.com/contest/1624/problem/B)
+<BR>
+
 [SOLUTION](https://codeforces.com/contest/1624/submission/375713929)

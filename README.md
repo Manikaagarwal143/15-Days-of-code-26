@@ -182,6 +182,7 @@ Longest subarray with sum k
 Largest odd number in a string 
 <br>
 <br>
+
 **DAY11**
 <BR>
 LEETCODE
@@ -203,3 +204,29 @@ CP SHEET 31
 <BR>
 
 [SOLUTION](https://codeforces.com/contest/1696/submission/375600595)
+<br>
+
+**DAY12**
+<BR>
+LEETCODE
+<BR>
+
+[1. FIRST AND LAST OCUURANCE](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+<br>
+
+[2.SEARCH INSERT POSITIONS](https://leetcode.com/problems/search-insert-position/description/)
+<BR>
+<BR>
+STRIVER SHEET 
+LEADERS IN AN ARRAY
+<BR>
+UPPER BOUND
+<BR>
+LOWER BOUND 
+<BR>
+<BR>
+CP SHEET 31
+<BR>
+
+[MAKE AP](https://codeforces.com/contest/1624/problem/B)
+[SOLUTION](https://codeforces.com/contest/1624/submission/375713929)

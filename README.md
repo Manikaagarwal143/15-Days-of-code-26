@@ -235,3 +235,20 @@ LOWER BOUND
 <BR>
 
 [SOLUTION](https://codeforces.com/contest/1624/submission/375713929)
+
+**DAY13**
+<BR>
+ [SEARCH IN A ROTATED SORTED ARRAY](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2011101939/)
+ <br>
+ [MINIMUM IN ROTATED SORTED ARRAY](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2011113249/)
+
+ ***CP SHEET 31 ***
+ <BR>
+ [RASPBERRIES](https://codeforces.com/problemset/problem/1883/C)
+ <BR>
+ [SOLUTION](https://codeforces.com/problemset/status?my=on)
+
+ <BR>
+ [SWAP AND DELETE(tried)](https://codeforces.com/problemset/problem/1913/B)
+ <br>
+ [unsolved](https://codeforces.com/contest/1913/submission/375948592)

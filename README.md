@@ -73,7 +73,7 @@ completed lecture 42 oops by love babbar (https://www.youtube.com/watch?v=i_5pvt
 <br>
 CP SHHET 31
 <BR>
-[problem 1475A] (https://codeforces.com/problemset/problem/1475/A)
+[problem 1475A](https://codeforces.com/problemset/problem/1475/A)
 <BR>
 [solution](https://codeforces.com/contest/1475/submission/374614184)
 <BR>
@@ -242,7 +242,7 @@ LOWER BOUND
  <br>
  [MINIMUM IN ROTATED SORTED ARRAY](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2011113249/)
 
- ***CP SHEET 31 ***
+ ***CP SHEET 31***
  <BR>
  [RASPBERRIES](https://codeforces.com/problemset/problem/1883/C)
  <BR>
@@ -252,3 +252,23 @@ LOWER BOUND
  [SWAP AND DELETE(tried)](https://codeforces.com/problemset/problem/1913/B)
  <br>
  [unsolved](https://codeforces.com/contest/1913/submission/375948592)
+
+<br>
+<br>
+
+**DAY14**
+<BR>
+
+***LEETCODE***
+<BR>
+
+ [kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2012413908/)
+ <br>
+
+[array pairs divisible by k]( https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/submissions/2012455241/?utm_source=chatgpt.com)
+<BR>
+
+[maximum subarray](https://leetcode.com/problems/maximum-subarray/submissions/2012499312/)
+<BR>
+
+[majority element](https://leetcode.com/problems/majority-element/submissions/2012511087/)

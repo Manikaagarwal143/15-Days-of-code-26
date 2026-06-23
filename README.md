@@ -311,8 +311,10 @@ COULD NOT SOLVE PROBLEM 4
 <br>
 23/06/2026
 <br>
-[max consecutive ones |||] (https://leetcode.com/submissions/detail/2042878852/)
+
+[max consecutive ones |||](https://leetcode.com/submissions/detail/2042878852/)
 <br>
+
 [max points obtained from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
 <br>
 

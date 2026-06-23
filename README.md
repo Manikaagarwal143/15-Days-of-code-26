@@ -313,6 +313,8 @@ COULD NOT SOLVE PROBLEM 4
 <br>
 [max consecutive ones |||] (https://leetcode.com/submissions/detail/2042878852/)
 <br>
+[max points obtained from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
+<br>
 
 ***striver sheet***
 infix to postfix , infix to prefic conversions 

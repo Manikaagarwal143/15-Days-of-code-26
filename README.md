@@ -302,3 +302,19 @@ FIND THE NTH ROOT
 [PROBLEM 5](https://www.codechef.com/START240D/problems/FREQP)
 <BR>
 COULD NOT SOLVE PROBLEM 4
+
+
+
+**2ND PART**
+
+**DAY1**
+<br>
+23/06/2026
+<br>
+[max consecutive ones |||] (https://leetcode.com/submissions/detail/2042878852/)
+<br>
+
+***striver sheet***
+infix to postfix , infix to prefic conversions 
+<br>
+ problem : fruits into the basket

@@ -322,3 +322,33 @@ COULD NOT SOLVE PROBLEM 4
 infix to postfix , infix to prefic conversions 
 <br>
  problem : fruits into the basket
+<br>
+
+ **day2**
+ <br>
+
+***leetcode***
+<br>
+
+ [maximum average subarray](https://leetcode.com/submissions/detail/2044581765/)
+ <br>
+ 
+ [minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/?envType=problem-list-v2&envId=sliding-window)
+
+<br>
+
+***codechef contest***
+<br>
+[problem1](https://www.codechef.com/START244D/problems/TELHOME)
+<br>
+
+[problem2](https://www.codechef.com/START244D/problems/PASSCHAIN)
+<br
+
+[problem3](https://www.codechef.com/START244D/problems/CARRCOL)
+<br>
+
+[problem4](https://www.codechef.com/START244D/problems/DIV2)
+<br>
+
+[Introduction to linked list (by striver) completed](https://www.youtube.com/watch?v=Nq7ok-OyEpg)

@@ -352,3 +352,13 @@ infix to postfix , infix to prefic conversions
 <br>
 
 [Introduction to linked list (by striver) completed](https://www.youtube.com/watch?v=Nq7ok-OyEpg)
+<br>
+
+**day3**
+<br>
+
+[harmonic sequence](https://leetcode.com/problems/longest-harmonious-subsequence/submissions/2046081710/?envType=problem-list-v2&envId=sliding-window)
+
+<br>
+
+[striver vedio ll completed](https://www.youtube.com/watch?v=VaECK03Dz-g&t=2s)

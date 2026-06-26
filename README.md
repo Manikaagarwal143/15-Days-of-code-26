@@ -362,3 +362,19 @@ infix to postfix , infix to prefic conversions
 <br>
 
 [striver vedio ll completed](https://www.youtube.com/watch?v=VaECK03Dz-g&t=2s)
+
+**day4**
+<br>
+
+***leetcode***
+<br>
+
+[subarray product less than k](https://leetcode.com/problems/subarray-product-less-than-k/?envType=problem-list-v2&envId=sliding-window)
+
+<br>
+
+[arthemetic slice](https://leetcode.com/problems/arithmetic-slices/submissions/2047047155/?envType=problem-list-v2&envId=sliding-window)
+
+<br>
+
+[striver vedio doubly LL COMPLETED](https://www.youtube.com/watch?v=0eKMU10uEDI&t=3494s)

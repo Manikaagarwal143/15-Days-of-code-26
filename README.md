@@ -370,11 +370,31 @@ infix to postfix , infix to prefic conversions
 <br>
 
 [subarray product less than k](https://leetcode.com/problems/subarray-product-less-than-k/?envType=problem-list-v2&envId=sliding-window)
-
 <br>
 
 [arthemetic slice](https://leetcode.com/problems/arithmetic-slices/submissions/2047047155/?envType=problem-list-v2&envId=sliding-window)
-
 <br>
 
 [striver vedio doubly LL COMPLETED](https://www.youtube.com/watch?v=0eKMU10uEDI&t=3494s)
+
+**day5**
+<br>
+
+***leetcode***
+<br>
+
+[reverse a ll](https://leetcode.com/problems/reverse-linked-list/)
+<br>
+
+[add two numbers](https://leetcode.com/problems/add-two-numbers/submissions/2047707767/)
+<br>
+
+[middle of linked lsit](https://leetcode.com/problems/middle-of-the-linked-list/submissions/2047820137/)
+<br>
+
+***learned tortoise and hare algo***
+<br>
+
+**striver sheet** 
+<br>
+"reverse a doubly linked list"

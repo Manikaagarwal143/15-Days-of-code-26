@@ -392,9 +392,18 @@ infix to postfix , infix to prefic conversions
 [middle of linked lsit](https://leetcode.com/problems/middle-of-the-linked-list/submissions/2047820137/)
 <br>
 
+
 ***learned tortoise and hare algo***
 <br>
 
 **striver sheet** 
 <br>
 "reverse a doubly linked list"
+
+**day6**
+<br>
+
+[remove nth node from end](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2048813325/?envType=problem-list-v2&envId=linked-list)
+<BR>
+
+[loop in a LL](https://leetcode.com/problems/linked-list-cycle/submissions/2048906441/)

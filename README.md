@@ -407,3 +407,21 @@ infix to postfix , infix to prefic conversions
 <BR>
 
 [loop in a LL](https://leetcode.com/problems/linked-list-cycle/submissions/2048906441/)
+
+<hr>
+
+<h3> <b> DAY7 </b> </h3>
+<br>
+
+***leetcode***
+
+[segregate even odd in LL](https://leetcode.com/submissions/detail/2049613200/)
+<br>
+
+[palindrome in a LL](https://leetcode.com/submissions/detail/2049642607/)
+<br>
+
+[delete middle node in a LL](https://leetcode.com/submissions/detail/2050017208/)
+<br>
+
+[intersection of two LL](https://leetcode.com/submissions/detail/2050072018/)

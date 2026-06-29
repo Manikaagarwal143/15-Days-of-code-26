@@ -305,11 +305,13 @@ COULD NOT SOLVE PROBLEM 4
 
 
 
-**2ND PART**
+<hr>
+<h1> <b> 2 <sup>nd</sup> PART</b> </h1>
 
-**DAY1**
+<hr>
+<h3> <b> DAY1 </b> </h3>
 <br>
-23/06/2026
+
 <br>
 
 [max consecutive ones |||](https://leetcode.com/submissions/detail/2042878852/)
@@ -324,7 +326,8 @@ infix to postfix , infix to prefic conversions
  problem : fruits into the basket
 <br>
 
- **day2**
+<hr>
+<h3> <b> DAY2 </b> </h3>
  <br>
 
 ***leetcode***
@@ -354,7 +357,8 @@ infix to postfix , infix to prefic conversions
 [Introduction to linked list (by striver) completed](https://www.youtube.com/watch?v=Nq7ok-OyEpg)
 <br>
 
-**day3**
+<hr>
+<h3> <b> DAY3 </b> </h3>
 <br>
 
 [harmonic sequence](https://leetcode.com/problems/longest-harmonious-subsequence/submissions/2046081710/?envType=problem-list-v2&envId=sliding-window)
@@ -363,7 +367,8 @@ infix to postfix , infix to prefic conversions
 
 [striver vedio ll completed](https://www.youtube.com/watch?v=VaECK03Dz-g&t=2s)
 
-**day4**
+<hr>
+<h3> <b> DAY4 </b> </h3>
 <br>
 
 ***leetcode***
@@ -377,7 +382,8 @@ infix to postfix , infix to prefic conversions
 
 [striver vedio doubly LL COMPLETED](https://www.youtube.com/watch?v=0eKMU10uEDI&t=3494s)
 
-**day5**
+<hr>
+<h3> <b> DAY5 </b> </h3>
 <br>
 
 ***leetcode***
@@ -399,8 +405,8 @@ infix to postfix , infix to prefic conversions
 **striver sheet** 
 <br>
 "reverse a doubly linked list"
-
-**day6**
+<hr>
+<h3> <b> DAY6 </b> </h3>
 <br>
 
 [remove nth node from end](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2048813325/?envType=problem-list-v2&envId=linked-list)
@@ -410,7 +416,7 @@ infix to postfix , infix to prefic conversions
 
 <hr>
 
-<h3> <b> DAY7 </b> </h3>
+<h2> <b> DAY7 </b> </h2>
 <br>
 
 ***leetcode***

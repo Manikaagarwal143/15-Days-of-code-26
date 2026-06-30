@@ -433,17 +433,17 @@ infix to postfix , infix to prefic conversions
 [intersection of two LL](https://leetcode.com/submissions/detail/2050072018/)
 <br>
 <hr>
-<h3> <b> DAY7 </b> </h3>
+<h3> <b> DAY8 </b> </h3>
 <br>
 
-[sort LL youtube vedio](https://www.youtube.com/watch?v=8ocB7a_c-Cc&list=PLgUwDviBIf0rAuz8tVcM0AymmhTRsfaLU&index=27&t=612s)
+[sort LL youtube vedio striver](https://www.youtube.com/watch?v=8ocB7a_c-Cc&list=PLgUwDviBIf0rAuz8tVcM0AymmhTRsfaLU&index=27&t=612s)
 <BR>
 <h5> <i> striver sheet </i> </h5>
-<BR>
+<br>
 add one to a number represented by a LL
 <BR>
 <h5> <i> leetcode </i> </h5>
-<BR>
+<br>
 
 [merge two sorted LL](https://leetcode.com/submissions/detail/2051041977/)
 <br>

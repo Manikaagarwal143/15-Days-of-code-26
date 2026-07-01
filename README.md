@@ -439,13 +439,34 @@ infix to postfix , infix to prefic conversions
 [sort LL youtube vedio striver](https://www.youtube.com/watch?v=8ocB7a_c-Cc&list=PLgUwDviBIf0rAuz8tVcM0AymmhTRsfaLU&index=27&t=612s)
 <BR>
 <h5> <i> striver sheet </i> </h5>
-<br>
+
 add one to a number represented by a LL
 <BR>
 <h5> <i> leetcode </i> </h5>
-<br>
 
 [merge two sorted LL](https://leetcode.com/submissions/detail/2051041977/)
 <br>
 
 [merge two sorted arrays](https://leetcode.com/problems/merge-sorted-array/submissions/2051257182/)
+
+<hr>
+<h3> <b> DAY9 </b> </h3>
+<h5> <i> leetcode </i>
+
+[remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2051967687/?envType=problem-list-v2&envId=linked-list)
+<br>
+
+[rotate list](https://leetcode.com/problems/rotate-list/submissions/2052117539/?envType=problem-list-v2&envId=linked-list)
+<br>
+
+[add binary](https://leetcode.com/problems/add-binary/submissions/2052390702/?envType=problem-list-v2&envId=bit-manipulation)
+<br>
+
+[single number](https://leetcode.com/problems/single-number/submissions/2052392892/?envType=problem-list-v2&envId=bit-manipulation)
+<br>
+
+[reverse bits](https://leetcode.com/problems/reverse-bits/submissions/2052411486/?envType=problem-list-v2&envId=bit-manipulation)
+<br>
+
+[power of two](https://leetcode.com/problems/power-of-two/submissions/2052428415/?envType=problem-list-v2&envId=bit-manipulation)
+<br>

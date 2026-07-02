@@ -470,3 +470,18 @@ add one to a number represented by a LL
 
 [power of two](https://leetcode.com/problems/power-of-two/submissions/2052428415/?envType=problem-list-v2&envId=bit-manipulation)
 <br>
+
+<hr>
+<h3> <b> DAY9 </b> </h3>
+<h5> <i> leetcode </i>
+
+[single number 2](https://leetcode.com/submissions/detail/2053450376/)
+<br>
+
+[number of 1 bits](https://leetcode.com/submissions/detail/2053453777/)
+<br>
+
+[bitwise and of number range](https://leetcode.com/submissions/detail/2053489308/)
+<br>
+
+[integer replacement](https://leetcode.com/submissions/detail/2053559669/)

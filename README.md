@@ -472,7 +472,7 @@ add one to a number represented by a LL
 <br>
 
 <hr>
-<h3> <b> DAY9 </b> </h3>
+<h3> <b> DAY10 </b> </h3>
 <h5> <i> leetcode </i>
 
 [single number 2](https://leetcode.com/submissions/detail/2053450376/)

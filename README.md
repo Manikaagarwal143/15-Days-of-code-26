@@ -487,3 +487,23 @@ add one to a number represented by a LL
 <br>
 
 [integer replacement](https://leetcode.com/submissions/detail/2053559669/)
+
+<hr>
+<h3> <b> DAY11 </b> </h3>
+<h5> <i> leetcode </i></h5>
+
+[jump game (attempted)](https://leetcode.com/problems/jump-game/description/?envType=problem-list-v2&envId=greedy)
+<br>
+
+[reverse integer](https://leetcode.com/submissions/detail/2054815954/)
+<br>
+
+[container with most water](https://leetcode.com/problems/container-with-most-water/submissions/2054874354/?envType=problem-list-v2&envId=two-pointers)
+<br>
+
+<h5> <i> codeforces </i></h5>
+
+[2171B](https://codeforces.com/contest/2171/submission/381114031)
+<br>
+
+[2169A](https://codeforces.com/contest/2169/submission/381110404)

@@ -489,7 +489,7 @@ add one to a number represented by a LL
 [integer replacement](https://leetcode.com/submissions/detail/2053559669/)
 
 <hr>
-<h3> <b> DAY11 </b> </h3>
+<h3> <b> DAY12 </b> </h3>
 <h5> <i> leetcode </i></h5>
 
 [jump game (attempted)](https://leetcode.com/problems/jump-game/description/?envType=problem-list-v2&envId=greedy)
@@ -507,3 +507,13 @@ add one to a number represented by a LL
 <br>
 
 [2169A](https://codeforces.com/contest/2169/submission/381110404)
+<hr>
+<h3> <b> DAY11 </b> </h3>
+
+<h5> <i> codeforces </i></h5>
+
+[2236C](https://codeforces.com/contest/2236/submission/381241043)
+<br>
+[2149C](https://codeforces.com/contest/2149/submission/381225231)
+<br>
+[2166B](https://codeforces.com/contest/2166/submission/381202100)

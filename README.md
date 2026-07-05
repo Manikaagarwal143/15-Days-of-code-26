@@ -489,7 +489,7 @@ add one to a number represented by a LL
 [integer replacement](https://leetcode.com/submissions/detail/2053559669/)
 
 <hr>
-<h3> <b> DAY12 </b> </h3>
+<h3> <b> DAY11 </b> </h3>
 <h5> <i> leetcode </i></h5>
 
 [jump game (attempted)](https://leetcode.com/problems/jump-game/description/?envType=problem-list-v2&envId=greedy)
@@ -508,7 +508,7 @@ add one to a number represented by a LL
 
 [2169A](https://codeforces.com/contest/2169/submission/381110404)
 <hr>
-<h3> <b> DAY11 </b> </h3>
+<h3> <b> DAY12 </b> </h3>
 
 <h5> <i> codeforces </i></h5>
 
@@ -517,3 +517,13 @@ add one to a number represented by a LL
 [2149C](https://codeforces.com/contest/2149/submission/381225231)
 <br>
 [2166B](https://codeforces.com/contest/2166/submission/381202100)
+<HR>
+
+<h3> <b> DAY12 </b> </h3>
+[2193C]https://codeforces.com/contest/2193/submission/381360702
+<BR>
+[MISSING NUMBER](https://leetcode.com/submissions/detail/2056679039/)
+<BR>
+[PRODUCT SUBARRY](https://leetcode.com/submissions/detail/2056832939/)
+<BR>
+[CONTIGIOUS SUBARRAY](https://leetcode.com/submissions/detail/2057041273/)

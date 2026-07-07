@@ -521,7 +521,7 @@ add one to a number represented by a LL
 
 <h3> <b> DAY13 </b> </h3>
 
-[2193C]https://codeforces.com/contest/2193/submission/381360702
+[2193C](https://codeforces.com/contest/2193/submission/381360702)
 <BR>
 
 [MISSING NUMBER](https://leetcode.com/submissions/detail/2056679039/)
@@ -531,3 +531,11 @@ add one to a number represented by a LL
 <BR>
 
 [CONTIGIOUS SUBARRAY](https://leetcode.com/submissions/detail/2057041273/)
+
+<HR>
+
+<h3> <b> DAY14 </b> </h3>
+[pivot index](https://leetcode.com/submissions/detail/2059112683/)
+<br>
+
+[shifting letters](https://leetcode.com/submissions/detail/2059215511/)
